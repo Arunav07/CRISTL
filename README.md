@@ -53,6 +53,7 @@ The dataset used is the **IDD or, Indian Driving Dataset**. The dataset consists
 
 ![Alt Text](https://github.com/Atharva-D/git-mlsc/blob/main/python.jpg)
 ![Alt Text](https://github.com/Atharva-D/git-mlsc/blob/main/Tensorflow.png)
+![Alt Text](https://github.com/Atharva-D/git-mlsc/blob/main/colab.jpeg)
 
 
 
