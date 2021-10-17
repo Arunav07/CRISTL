@@ -44,6 +44,10 @@ The dataset used is the **IDD or, Indian Driving Dataset**. The dataset consists
 2) https://towardsdatascience.com/multi-label-image-classification-in-tensorflow-2-0-7d4cf8a4bc72
 3) https://peltarion.com/knowledge-center/documentation/cheat-sheets/multi-label-image-classification-/-cheat-sheet
 
+# Technologies Used
+
+![Alt Text](https://github.com/Atharva-D/git-mlsc/blob/main/python.jpg)
+
 
 
 
