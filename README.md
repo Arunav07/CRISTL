@@ -6,12 +6,12 @@ The performance of the various models can be compared and appropriate conclusion
 
 IDD Dataset is the Dataset of Indian Driving Dataset which we are using for this project.
 💻🖥📚📚
-The dataset used is the **IDD or, Indian Driving Dataset**. The dataset consists of images obtained from a front facing camera attached to a car. The car was driven around Hyderabad, Bangalore cities and their outskirts. The images are mostly of 1080p resolution, but there is also some images with 720p and other resolutions. The total number of images are 10,003. Currently, the team is working on 384 images, a curtailed dataset for ease of access and handling the huge dataset in an efficient way. https://idd.insaan.iiit.ac.in/dataset/details/
+The dataset used is the **IDD or, Indian Driving Dataset**. The dataset consists of images obtained from a front facing camera attached to a car. The car was driven around Hyderabad, Bangalore cities and their outskirts. The images are mostly of 1080p resolution, but there is also some images with 720p and other resolutions. The total number of images are 10,003. Currently, the team is working on 384 images, a curtailed dataset for ease of access and handling the huge dataset in an efficient way. Link to the dataset: https://idd.insaan.iiit.ac.in/dataset/details/
 
 **Repo:** https://github.com/Arunav07/CRISTL-Project-1
 
 
-# Project Motivation
+## Project Motivation
 
 **Enter Project Motivation here**
 
