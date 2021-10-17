@@ -39,5 +39,11 @@ The dataset used is the **IDD or, Indian Driving Dataset**. The dataset consists
 2) https://www.youtube.com/watch?v=oxrcZ9uUblI
 3) https://towardsdatascience.com/a-practical-guide-to-tfrecords-584536bc786c
 
+**Multiple Labels Classsification References:**
+1) https://towardsdatascience.com/image-data-labelling-and-annotation-everything-you-need-to-know-86ede6c684b1
+2) https://towardsdatascience.com/multi-label-image-classification-in-tensorflow-2-0-7d4cf8a4bc72
+3) https://peltarion.com/knowledge-center/documentation/cheat-sheets/multi-label-image-classification-/-cheat-sheet
+
+
 
 
