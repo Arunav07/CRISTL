@@ -17,7 +17,7 @@ The dataset used is the **IDD or, Indian Driving Dataset**. The dataset consists
 
 # Image Dataset
 
-![image](https://user-images.githubusercontent.com/83348948/137622320-ea941b46-0953-449e-871a-2a36e5776b2c.png)![image](https://user-images.githubusercontent.com/83348948/137622448-d67638e4-7913-46b2-b10e-38484da2a1c6.png)
+![image](https://user-images.githubusercontent.com/83348948/137622320-ea941b46-0953-449e-871a-2a36e5776b2c.png) ![image](https://user-images.githubusercontent.com/83348948/137622448-d67638e4-7913-46b2-b10e-38484da2a1c6.png)
 
 
 
