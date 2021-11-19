@@ -62,6 +62,12 @@ The project allows us to explore the various aspects involved while building a M
 2) https://towardsdatascience.com/multi-label-image-classification-in-tensorflow-2-0-7d4cf8a4bc72
 3) https://peltarion.com/knowledge-center/documentation/cheat-sheets/multi-label-image-classification-/-cheat-sheet
 
+**Creating label_matrix References:**
+1) https://numpy.org/doc/stable/reference/generated/numpy.asmatrix.html
+2) https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.to_numpy.html
+3) https://appdividend.com/2020/04/25/how-to-convert-python-pandas-dataframe-to-list/
+4) https://www.tensorflow.org/api_docs/python/tf/convert_to_tensor
+
 ## Technologies Used
 
 ![Alt Text](https://github.com/Atharva-D/git-mlsc/blob/main/python.jpg)
