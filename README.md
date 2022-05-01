@@ -13,8 +13,6 @@ The dataset used is the **IDD or, Indian Driving Dataset**. The dataset consists
 
 **Link to the Gantt Chart:** https://docs.google.com/document/d/18UX6mkH88T9qIU-J9HYKmB4pJGqoPlSd/edit?usp=sharing&ouid=115112343899486492342&rtpof=true&sd=true
 
-[https://docs.google.com/document/d/18UX6mkH88T9qIU-J9HYKmB4pJGqoPlSd/edit?usp=sharing&ouid=108845824349315753362&rtpof=true&sd=true](GANTT CHART)
-
 ## Project Motivation
 
 The project allows us to explore the various aspects involved while building a Machine Learning Model and gives us hands-on experience on a real life dataset. The object detection task involved will also pave a way in the future for automated cars to drive on Indian roads.
