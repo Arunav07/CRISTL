@@ -1,12 +1,12 @@
 # CRISTL-Project-1
 
 ## The Task: 
-The task involves training the model to identify the objects in the image, by creating a box bounding it and displaying the probability of certainty of having identified the object accurately. 
-The performance of the various models can be compared and appropriate conclusions will be drawn.
+The task involved identifying the objects in the dataset, via creation of various Machine Learning models, namely-
+Convolutional Neural Nets, Transfer Learning Models [MobileNetV2, Densenet and VGG16].
+The performance of the various models were compared and appropriate conclusions were drawn.
 
-IDD Dataset is the Dataset of Indian Driving Dataset which we are using for this project.
-💻🖥📚📚
-The dataset used is the **IDD or, Indian Driving Dataset**. The dataset consists of images obtained from a front facing camera attached to a car. The car was driven around Hyderabad, Bangalore cities and their outskirts. The images are mostly of 1080p resolution, but there is also some images with 720p and other resolutions. The total number of images are 10,003. Currently, the team is working on 384 images, a curtailed dataset for ease of access and handling the huge dataset in an efficient way. https://idd.insaan.iiit.ac.in/dataset/details/
+
+The dataset used is the **IDD or, Indian Driving Dataset**. The dataset consists of images obtained from a front facing camera attached to a car. The car was driven around Hyderabad, Bangalore cities and their outskirts. The images are mostly of 1080p resolution, but there is also some images with 720p and other resolutions. The total number of images are 10,003. The team worked on 673 images, a curtailed dataset for ease of access and handling the huge dataset in an efficient way. https://idd.insaan.iiit.ac.in/dataset/details/
 
 **Repo:** https://github.com/Arunav07/CRISTL-Project-1
 
@@ -29,6 +29,8 @@ The project allows us to explore the various aspects involved while building a M
 
 
 
+**Repository referred throughout the course of the project:**
+https://github.com/BKaiwalya/Deep-Learning_Diabetic-Retinopathy-Detection 
 
 **Tensorflow:**
 1) https://www.tensorflow.org/tutorials
